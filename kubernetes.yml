@@ -31,7 +31,7 @@ spec:
         image: dockurr/windows
         env:
         - name: VERSION
-          value: "win2012r2"
+          value: "10ltsc"
         - name: DISK_SIZE
           value: "64G"
         ports:
